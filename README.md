@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Soy <strong>Desarrollador Javascript Full Stack</strong> con mas de 6 años experiencia.
+  Soy <strong>Desarrollador Javascript Full Stack</strong> con mas de 5 años experiencia.
 
   
 </p>
