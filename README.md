@@ -13,7 +13,7 @@
 
 **Puedes encontrarme en:**
 
-[<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=orange"/>](mailto:jskcod4@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%23fc6d26.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jskcod4@gmail.com)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/jskcod4)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jskcod4/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jsksilva19/)
@@ -28,7 +28,7 @@
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-	<img src="https://img.shields.io/badge/nextjs-%230071f3.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="NestJS"/>
+	<img src="https://img.shields.io/badge/nestjs-%230071f3.svg?&style=for-the-badge&logo=nest.js&logoColor=white" alt="NestJS"/>
 	<img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 	<img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
