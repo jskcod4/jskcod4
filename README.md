@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Soy <strong>Desarrollador full-stack de software</strong>
+  Soy <strong>Desarrollador de Software</strong>
 </p>
 
 <p align="center">
