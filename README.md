@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="https://avatars.githubusercontent.com/u/20801160?v=4" /> -->
-   <h3 align="center">¡Hi! there 👋</h3>
+   <h3 align="center">¡Hi, there 👋!</h3>
 </p>
 
 <p align="center
