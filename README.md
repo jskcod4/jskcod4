@@ -1,17 +1,17 @@
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="https://avatars.githubusercontent.com/u/20801160?v=4" /> -->
-   <h3 align="center">¡Hey 👋! Hola Github 👨🏻‍💻</h3>
+   <h3 align="center">¡Hi! there 👋</h3>
+</p>
+
+<p align="center
+ I am a <strong>Software Developer</strong>.
 </p>
 
 <p align="center">
-  Soy <strong>Desarrollador de Software</strong>
+I consider myself a curious and inquisitive person and a continuous learner, so in my free time I like to work on side projects and try to keep learning new things to improve my skills.
 </p>
 
-<p align="center">
- Me considero una persona curiosa e inquisitiva y un aprendiz continuo, por lo que en mi tiempo libre me gusta trabajar en proyectos paralelos e intentar seguir    aprendiendo cosas nuevas para mejorar mis habilidades.
-</p>
-
-**Puedes encontrarme en:**
+**You can find me at**
 
 [<img src="https://img.shields.io/badge/gmail-%23fc6d26.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jskcod4@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jskcod4/)
