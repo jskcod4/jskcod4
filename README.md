@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=26428B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Jos%C3%A9+Angel+Rodr%C3%ADguez;Senior+Full-Stack+Developer+%7C+7%2B+Years)](https://git.io/typing-svg)
+# José Angel Rodríguez
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26428B&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Senior+Full-Stack+Developer;7%2B+Years+of+Experience;Angular+%7C+React+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:jskcod4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
