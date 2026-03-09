@@ -26,7 +26,7 @@ const jose = {
     experience: "7+ years",
     focus: ["Web Apps", "Mobile Apps", "SPA", "Real-Time Systems"],
     architecture: ["Hexagonal", "Microservices", "Vertical Slices"],
-    currentlyBuilding: "Coursue - Academic Management Platform",
+    currentlyBuilding: "Krevx - Academic Management Platform",
     passions: ["Clean Code", "User Experience", "Team Collaboration"],
 };
 ```
@@ -78,7 +78,7 @@ const jose = {
 
 ## 🏆 Featured Projects
 
-### 🎓 Coursue — Academic Management Platform
+### 🎓 [Krevx — Academic Management Platform](https://krevx.com)
 > **Full-Stack Developer** | React 18 · TypeScript · Hexagonal Architecture · Supabase · Zustand
 
 - Multi-role ecosystem (Director, Teacher, Student) with real-time dashboards
