@@ -3,13 +3,13 @@
 <!-- HEADER -->
 # José Angel Rodríguez
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=26428B&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Senior+Full-Stack+Developer;7%2B+Years+of+Experience;Angular+%7C+React+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Senior+Full-Stack+Developer;7%2B+Years+of+Experience;Angular+%7C+React+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:jskcod4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jskcod4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/jskcod4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jskcod4&style=for-the-badge&color=26428b"/>
+  <img src="https://komarev.com/ghpvc/?username=jskcod4&style=for-the-badge&color=000000"/>
 </p>
 
 </div>
@@ -116,16 +116,12 @@ const jose = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jskcod4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskcod4&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jskcod4&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskcod4&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jskcod4&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jskcod4&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com/?user=jskcod4&theme=dark&hide_border=true&border_radius=10"/>
 
 </div>
 
@@ -158,6 +154,6 @@ const jose = {
 
 *Open to remote opportunities worldwide* 🌍
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=26428b&height=100&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
 
 </div>
