@@ -85,7 +85,7 @@ const jose = {
 - Digital academic records (Kardex) & automated certificate editor with **Fabric.js**
 - **80%+ test coverage** with Vitest + Playwright E2E flows
 
-### 🔄 BPMN Visual Process Modeler
+### 🔄 [BPMN Visual Process Modeler](https://bpmn-angular-gojs.vercel.app/)
 > **Lead Frontend Engineer** | Angular · GoJS · BPMN 2.0
 
 - High-performance visual modeling tool for complex business workflows
