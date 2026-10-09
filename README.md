@@ -71,13 +71,26 @@
 
 <img src="https://skillicons.dev/icons?i=capacitor,ionic,kotlin,androidstudio,jest,vitest,cypress,docker,kubernetes,githubactions,nginx,deno&perline=12&theme=light" />
 
+**AI & Agentic Engineering**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge&logo=opencode&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20%2F%20GPT-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Spec--Driven%20Development-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents%20%26%20Subagents-16A34A?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context%20Engineering-DB2777?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
 </div>
 
 <details>
 <summary><b>🔎 Full keyword list (ATS-friendly)</b></summary>
 <br/>
 
-`TypeScript` `JavaScript` `Go` `Java` `Kotlin` `SQL` · `Angular` `Angular 18` `Angular Signals` `Standalone Components` `Angular Material` `PrimeNG` `RxJS` `NgRx` `React` `React Hooks` `Redux` `Zustand` `Vue.js` `Micro-frontends` `Nx Monorepo` · `HTML5` `CSS3` `SASS / SCSS` `BEM` `Tailwind CSS` `Responsive Design` `Design Systems` `Accessibility (WCAG)` `i18n` `Figma to Code` · `NestJS` `Node.js` `Express` `Spring Boot` `Microservices` `REST APIs` `OpenAPI` `JWT / OAuth2` `WebSocket` `Real-time Notifications` · `PostgreSQL` `Row Level Security (RLS)` `MongoDB` `MySQL` `Supabase` `Supabase Edge Functions` `Firebase` `Deno` · `AI-Driven Engineering` `Spec-Driven Development (SDD)` `Agentic Coding` `Claude Code` `Model Context Protocol (MCP)` `AI Agents` `Multi-Agent Orchestration` `Subagents` `Context Engineering` `Prompt Engineering` `AI Code Review` `LLM` `RAG` `OpenAI API` `GPT` `Claude` `Vector Search` `AI-Assisted TDD` · `Ionic` `Capacitor` `Android` `Kotlin` `Jetpack Compose` `Firebase Cloud Messaging (FCM)` `Push Notifications` · `Jest` `Vitest` `Playwright` `Cypress` `Unit Testing` `E2E Testing` · `Docker` `Kubernetes` `AWS` `Nginx` `CI/CD` `GitHub Actions` `Git` · `Hexagonal Architecture` `Clean Architecture` `Multi-tenant SaaS` `Feature Flags` `A/B Testing` `Performance Optimization` `Technical Debt Reduction` `Legacy Modernization` `Team Leadership` `Code Review` `Agile / Scrum` · `Mux` `Adaptive Bitrate Streaming` `Google Maps API` `Web3 Payments`
+`TypeScript` `JavaScript` `Go` `Java` `Kotlin` `SQL` · `Angular` `Angular 18` `Angular Signals` `Standalone Components` `Angular Material` `PrimeNG` `RxJS` `NgRx` `React` `React Hooks` `Redux` `Zustand` `Vue.js` `Micro-frontends` `Nx Monorepo` · `HTML5` `CSS3` `SASS / SCSS` `BEM` `Tailwind CSS` `Responsive Design` `Design Systems` `Accessibility (WCAG)` `i18n` `Figma to Code` · `NestJS` `Node.js` `Express` `Spring Boot` `Microservices` `REST APIs` `OpenAPI` `JWT / OAuth2` `WebSocket` `Real-time Notifications` · `PostgreSQL` `Row Level Security (RLS)` `MongoDB` `MySQL` `Supabase` `Supabase Edge Functions` `Firebase` `Deno` · `AI-Driven Engineering` `Spec-Driven Development (SDD)` `Agentic Coding` `Claude Code` `OpenCode` `Model Context Protocol (MCP)` `AI Agents` `Multi-Agent Orchestration` `Subagents` `Context Engineering` `Prompt Engineering` `AI Code Review` `LLM` `RAG` `OpenAI API` `GPT` `Claude` `Vector Search` `AI-Assisted TDD` · `Ionic` `Capacitor` `Android` `Kotlin` `Jetpack Compose` `Firebase Cloud Messaging (FCM)` `Push Notifications` · `Jest` `Vitest` `Playwright` `Cypress` `Unit Testing` `E2E Testing` · `Docker` `Kubernetes` `AWS` `Nginx` `CI/CD` `GitHub Actions` `Git` · `Hexagonal Architecture` `Clean Architecture` `Multi-tenant SaaS` `Feature Flags` `A/B Testing` `Performance Optimization` `Technical Debt Reduction` `Legacy Modernization` `Team Leadership` `Code Review` `Agile / Scrum` · `Mux` `Adaptive Bitrate Streaming` `Google Maps API` `Web3 Payments`
 
 </details>
 
