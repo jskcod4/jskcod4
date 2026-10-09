@@ -1,159 +1,235 @@
 <div align="center">
 
-<!-- HEADER -->
-# José Angel Rodríguez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&height=210&section=header&text=Jos%C3%A9%20Angel%20Rodr%C3%ADguez%20Silva&fontSize=44&fontColor=0F172A&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Angular%20%2F%20React%20Specialist%20%E2%80%A2%20NestJS%20%E2%80%A2%20AI-Driven%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Senior+Full-Stack+Developer;7%2B+Years+of+Experience;Angular+%7C+React+%7C+Node.js+%7C+NestJS;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0369A1&center=true&vCenter=true&width=760&height=50&lines=8%2B+years+shipping+production+web+%26+mobile+apps;Angular+Expert+%7C+Angular+8+%E2%86%92+18+migrations;React+%7C+NestJS+%7C+Node.js+%7C+Go+%7C+Spring+Boot;Spec-Driven+Development+%7C+AI+Agents+%7C+MCP;Scalable+Web+Architecture+%7C+Performance-First;Open+to+Senior+Software+Engineer+roles+%F0%9F%8C%8E)](https://github.com/jskcod4)
 
 <p>
-  <a href="mailto:jskcod4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jskcod4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/jskcod4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jskcod4&style=for-the-badge&color=000000"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Senior%20Software%20Engineer-16A34A?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remote-Worldwide-0284C7?style=for-the-badge&logo=googleearth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-8%2B%20years-D97706?style=for-the-badge&logo=starship&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systems%20Engineer-B.Eng.-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jose-angel-rodriguez-silva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jskcod4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://krevx.com"><img src="https://img.shields.io/badge/Live%20SaaS-Krevx-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jskcod4&style=for-the-badge&color=0369A1&label=Profile+views"/>
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 TL;DR for Recruiters
 
-**Senior Full-Stack Developer** specializing in building high-quality **Web**, **Mobile**, and **Full-Stack** applications. From mobile ordering platforms to real-time systems, I turn complex requirements into elegant, performant solutions.
+> **Software Engineer** specialized in **scalable web architectures** and **AI-driven solutions**, with **8+ years** turning complex ideas into **high-performance digital products** for **HealthTech, Telecom, FinTech, SaaS and EdTech**.
+> **Angular expert** (led **Angular 8 → 18** modernization at Claro Chile), strong in **React**, and solid on the backend with **NestJS / Node.js**. I've **led a team of 5 developers**, pioneered a **hybrid mobile app with Capacitor**, and I ship a production **AI-powered LMS (RAG + OpenAI)**.
+> **Product mindset:** I don't just close tasks — I reduce technical debt, protect UX and build features that move ROI.
 
-```typescript
-const jose = {
-    location: "Remote 🌎",
-    experience: "7+ years",
-    focus: ["Web Apps", "Mobile Apps", "SPA", "Real-Time Systems"],
-    architecture: ["Hexagonal", "Microservices", "Vertical Slices"],
-    currentlyBuilding: "Krevx - Academic Management Platform",
-    passions: ["Clean Code", "User Experience", "Team Collaboration"],
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 What I bring to your team**
+- ⚡ **Frontend expertise**: Angular (Expert), React, RxJS, Redux, Signals
+- 🧱 **Backend**: NestJS, Node.js, Express, Go, Spring Boot, Microservices
+- 📱 **Mobile**: Ionic, Capacitor, Kotlin (Jetpack Compose), Android
+- 🤖 **AI-driven engineering**: **Spec-Driven Development (SDD)**, Claude Code, MCP, multi-agent workflows, RAG, OpenAI
+- 🚀 **Performance-first**: bundle optimization, fast load times, high availability
+
+</td>
+<td width="50%" valign="top">
+
+**🏗️ How I work**
+- 🧭 **Hexagonal / Clean Architecture**, Multi-tenant SaaS, Micro-frontends
+- 🚩 **Feature Flags** & **A/B testing** for decoupled, safe releases
+- ✅ **Quality**: unit + E2E testing (Jest, Vitest, Playwright, Cypress), **WCAG**
+- 🔍 **Root-cause analysis** that cuts production incidents
+- 👥 **Leadership**: team lead, code reviews, Agile / Scrum
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Frontend**
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular_16+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,redux,html,css,sass,tailwind,vue&perline=10&theme=light" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Backend, Data & Cloud**
 
-### Styles & UI
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,go,spring,java,postgres,mongodb,mysql,supabase,firebase,aws&perline=12&theme=light" />
 
-### Testing
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+**Mobile, Testing & DevOps**
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=capacitor,ionic,kotlin,androidstudio,jest,vitest,cypress,docker,kubernetes,githubactions,nginx,deno&perline=12&theme=light" />
 
 </div>
+
+<details>
+<summary><b>🔎 Full keyword list (ATS-friendly)</b></summary>
+<br/>
+
+`TypeScript` `JavaScript` `Go` `Java` `Kotlin` `SQL` · `Angular` `Angular 18` `Angular Signals` `Standalone Components` `Angular Material` `PrimeNG` `RxJS` `NgRx` `React` `React Hooks` `Redux` `Zustand` `Vue.js` `Micro-frontends` `Nx Monorepo` · `HTML5` `CSS3` `SASS / SCSS` `BEM` `Tailwind CSS` `Responsive Design` `Design Systems` `Accessibility (WCAG)` `i18n` `Figma to Code` · `NestJS` `Node.js` `Express` `Spring Boot` `Microservices` `REST APIs` `OpenAPI` `JWT / OAuth2` `WebSocket` `Real-time Notifications` · `PostgreSQL` `Row Level Security (RLS)` `MongoDB` `MySQL` `Supabase` `Supabase Edge Functions` `Firebase` `Deno` · `AI-Driven Engineering` `Spec-Driven Development (SDD)` `Agentic Coding` `Claude Code` `Model Context Protocol (MCP)` `AI Agents` `Multi-Agent Orchestration` `Subagents` `Context Engineering` `Prompt Engineering` `AI Code Review` `LLM` `RAG` `OpenAI API` `GPT` `Claude` `Vector Search` `AI-Assisted TDD` · `Ionic` `Capacitor` `Android` `Kotlin` `Jetpack Compose` `Firebase Cloud Messaging (FCM)` `Push Notifications` · `Jest` `Vitest` `Playwright` `Cypress` `Unit Testing` `E2E Testing` · `Docker` `Kubernetes` `AWS` `Nginx` `CI/CD` `GitHub Actions` `Git` · `Hexagonal Architecture` `Clean Architecture` `Multi-tenant SaaS` `Feature Flags` `A/B Testing` `Performance Optimization` `Technical Debt Reduction` `Legacy Modernization` `Team Leadership` `Code Review` `Agile / Scrum` · `Mux` `Adaptive Bitrate Streaming` `Google Maps API` `Web3 Payments`
+
+</details>
+
+---
+
+## 💼 Experience
+
+| Period | Role & Company | Highlights |
+|:--|:--|:--|
+| **Jun 2026 — Present** | **Full Stack Developer**<br/>🏥 Bupa Chile · *Remote* | HealthTech digital products with **Angular** and **Go** |
+| **Feb 2024 — Jun 2026** | **Software Engineer**<br/>📡 Claro Chile · *Remote* | **Led legacy modernization Angular 8 → 18** · optimized **bundle size & runtime performance** · **Feature Flags** via **Spring Boot microservices** for decoupled releases & **A/B testing** · native **Android** support · reduced **production incidents** through root-cause analysis & refactoring |
+| **Aug 2022 — Jan 2024** | **Full-Stack Developer**<br/>🛠️ Taclia *(SaaS, Barcelona)* · *Remote* | **Led a team of 5 developers** · built the **Android app with Capacitor + FCM** (pioneer in the company) · reusable **Angular Material** components & **REST API** integration · **BEM + SASS 7-1** architecture · faster load times · co-designed the platform's next major version |
+| **Oct 2021 — Jul 2022** | **Software Engineer**<br/>💳 Naranja X *(FinTech, Argentina)* · *Remote* | Led optimization of the promotions **microsite** · framework & library **migrations** · **unit tests (Jest)** · **UI/UX** improvements · critical bug fixing for regional campaigns |
+| **Oct 2018 — Sep 2020** | **Full-Stack Developer**<br/>📱 Virtwoo Mobile Solutions | **Real-estate platform** (Angular + **Google Maps**, pricing simulator, roles) · **sales & orders app** (Ionic, Node.js, **real-time FCM notifications**, Google Auth) · **Vue.js** release portal · organization management platform |
+
+🎓 **B.Eng. in Systems Engineering** — Instituto Universitario Politécnico Santiago Mariño (2013 – 2018) · Continuous learning at **Platzi**
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🎓 [Krevx — Academic Management Platform](https://krevx.com)
-> **Full-Stack Developer** | React 18 · TypeScript · Hexagonal Architecture · Supabase · Zustand
+### 🎓 [Krevx — AI-Powered Learning Management SaaS](https://krevx.com) · *in production*
 
-- Multi-role ecosystem (Director, Teacher, Student) with real-time dashboards
-- Digital academic records (Kardex) & automated certificate editor with **Fabric.js**
-- **80%+ test coverage** with Vitest + Playwright E2E flows
+`React` `TypeScript` `NestJS` `Supabase` `PostgreSQL (RLS)` `Deno Edge Functions` `OpenAI` `Mux` `Tailwind` `Hexagonal Architecture`
 
-### 🔄 [BPMN Visual Process Modeler](https://bpmn-angular-gojs.vercel.app/)
-> **Lead Frontend Engineer** | Angular · GoJS · BPMN 2.0
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- High-performance visual modeling tool for complex business workflows
-- Data-driven diagramming engine with drag-and-drop & automated layout algorithms
-- State persistence with JSON serialization for seamless backend integration
+- 🤖 **AI: RAG + Video Assistant** with Supabase Edge Functions & OpenAI
+- 🎬 **Unified video engine** (Mux / YouTube) with **Adaptive Bitrate** & video analytics
+- 🧮 **Weighted grading engine** with international scales — **multi-tenant**
+- 👥 **Multi-role dashboards** (Director · Teacher · Student)
+
+</td>
+<td width="50%" valign="top">
+
+- 📚 Academic management, enrollment & **digital Kardex**
+- 🔔 **Real-time notifications**, forum, calendar & schedules
+- 🏅 Editable **certificates**, achievements feed, custom **branding**
+- 💸 **Web3 payments** (Phantom / MetaMask) · **WCAG** & automated tests
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔄 [BPMN Visual Modeler](https://bpmn-angular-gojs.vercel.app/)
+`Angular` `GoJS` `BPMN 2.0`
+
+Frontend owner of a visual **business process modeling** tool: drag-and-drop diagramming, properties panel, zoom & automated layouts.
+
+</td>
+<td width="33%" valign="top">
+
+### ☸️ [K8s Microservices](https://github.com/jskcod4/ms-kubernetes-microservices-big-ticket)
+`Node.js` `TypeScript` `Docker` `Kubernetes`
+
+Event-ticketing backend split into independent **microservices**, containerized and orchestrated with **Kubernetes**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 [Store FRK](https://github.com/jskcod4/store-frk)
+`Vue.js` `Micro-frontends` `Monorepo`
+
+E-commerce built on a **micro-frontend monorepo** with a custom checkout adapted to local payment methods.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Journey
+## 🤖 AI-Driven Engineering
 
-```
-📌 2024 - Present  → Frontend Developer @ Angecom SpA
-                      Angular modernization · Android support · Feature Flags · Spring Boot
-
-📌 2022 - 2024     → Full Stack Developer @ Taclia (Startup)
-                      +100% concurrent users · -40% dev costs · Capacitor hybrid app
-
-📌 2021 - 2022     → Front-End Developer @ Naranja X
-                      Microsite optimization · UI/UX improvements · Framework migrations
-
-📌 2018 - 2020     → FullStack Developer @ Virtwoo Mobile Solutions
-                      SaaS platform · -40% support contacts · UI style guidelines
-```
-
----
-
-## 📊 GitHub Analytics
+I use AI as a **force multiplier across the whole SDLC**, not just as autocomplete. My day-to-day runs on **agentic workflows** with guardrails, so speed never comes at the cost of quality.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jskcod4&show_icons=true&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskcod4&layout=compact&theme=dark&hide_border=true&border_radius=10&langs_count=8"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spec--Driven%20Development-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-16A34A?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=jskcod4&theme=dark&hide_border=true&border_radius=10"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📐 Spec-Driven Development (SDD)**
+- Every change starts from a **spec**: requirements → **Definition of Done** → technical plan → implementation
+- Acceptance criteria written **before** code, so the agent builds against a contract, not a guess
+- **Blind DoD audits**: a second agent rebuilds the spec from the ticket alone to catch missing requirements
+- Specs double as **living documentation** and test oracles (TDD + E2E)
+
+**🧠 Context Engineering**
+- **Reusable agent skills** encoding project rules, architecture conventions and lessons from past incidents
+- The AI works with **accumulated project context** instead of starting from zero
+- **CLAUDE.md / project memory**, prompt & context design for consistent output
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Quality gates with AI**
+- **Adversarial AI code review** ("tribunal") before any merge, with iterative fix loops
+- Automated **evidence collection** (screenshots, measurements, payloads) with **Playwright**
+- **Design-to-code verification** against Figma values (hex, px, spacing), not by eye
+- **Multi-model consensus** (Claude + GPT) for ambiguous technical decisions
+
+**🔌 Agentic tooling & automation**
+- **MCP servers**: Figma, Playwright, Supabase, Notion, GitHub, YouTrack
+- **Subagents & multi-agent orchestration** across parallel git worktrees
+- Workflow automation: ticket triage, time tracking, i18n checks, pre-merge checklists
+
+</td>
+</tr>
+</table>
+
+**🏗️ AI inside products:** RAG pipelines, LLM video assistant and **Supabase Edge Functions + OpenAI** running in production in [Krevx](https://krevx.com).
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jskcod4&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskcod4&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=8"/>
+
+<img src="https://streak-stats.demolab.com/?user=jskcod4&theme=default&background=FFFFFF&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
 
-## 🎯 Impact Highlights
-
 <div align="center">
 
-| Metric | Result |
-|--------|--------|
-| 📈 Concurrent Users Capacity | **+100%** improvement |
-| 💰 Annual Dev Costs Reduced | **-40%** in 2 weeks |
-| 🐛 Bug Reports Reduced | **-50%** with UI guidelines |
-| 📞 Support Contact Reduced | **-40%** in 1 month |
-| ✅ Test Coverage | **80%+** on key projects |
+## 🤝 Let's build something great together
 
-</div>
+**Open to Senior Software Engineer / Full Stack Engineer roles — remote, worldwide.**
+The fastest way to reach me is LinkedIn or email.
 
----
+<a href="https://www.linkedin.com/in/jose-angel-rodriguez-silva"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jskcod4@gmail.com"><img src="https://img.shields.io/badge/jskcod4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div align="center">
-
-### 🤝 Let's Connect
-
-<p>
-  <a href="mailto:jskcod4@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jskcod4"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-*Open to remote opportunities worldwide* 🌍
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:BAE6FD,100:E0F2FE&height=120&section=footer" width="100%"/>
 
 </div>
